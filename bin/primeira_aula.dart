@@ -18,6 +18,4 @@ void main(List<String> arguments) {
      print('Acho até que você esta sendo roubado!');
    }
  }
-
-
 }
