@@ -15,7 +15,7 @@ void main(List<String> arguments) {
  else{
    print('É menos que a média.');
    if(salario < 1100){
-     print('Acho até que você esta sendo roubado.');
+     print('Acho até que você esta sendo roubado!');
    }
  }
 
